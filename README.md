@@ -1,5 +1,8 @@
 # AI-Based Fraud Detection System
 
+![](https://github.com/Lucky-akash321/AI-Based-Fraud-Detection/blob/main/SF_AI_fraud_banking_graph3.png)
+
+
 ## Overview
 
 The **AI-Based Fraud Detection System** is a machine learning-driven approach to detect fraudulent activities in financial transactions. Using sophisticated AI and machine learning algorithms, the system analyzes transactional data patterns to flag potentially fraudulent activities. It incorporates several machine learning models such as Random Forest, XGBoost, and Neural Networks, and processes features like transaction amount, time, location, and user behavior to provide an efficient and scalable solution for real-time fraud detection.
