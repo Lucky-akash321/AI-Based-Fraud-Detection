@@ -76,6 +76,9 @@ To set up the AI-Based Fraud Detection System on your local machine, follow thes
 - Start the application and access the fraud detection system through the provided API:
 
 
+![](https://github.com/Lucky-akash321/AI-Based-Fraud-Detection/blob/main/FDS-image.png)
+
+
 ## Usage
 
 Once the system is installed and running, you can begin using it for fraud detection. The system will process incoming transactions and classify them as fraudulent or legitimate.
